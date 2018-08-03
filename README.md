@@ -1,2 +1,2 @@
 # git-sample
-n
+New line for rebase example.
